@@ -24,10 +24,10 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
- '''
-< !DOCTYPE html>
-< html lang="en">
-< head>
+'''
+<!DOCTYPE html>
+<html lang="en">
+<head>
     < meta charset="UTF-8">
     < title>College Timetable</title>
      < style>
@@ -160,8 +160,7 @@ Execute the program using runserver command.
     </table>
 < /body>
 < /html>
-
- '''
+'''
 
 
 ## OUTPUT
