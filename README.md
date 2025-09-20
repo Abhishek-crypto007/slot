@@ -160,10 +160,7 @@ Execute the program using runserver command.
     </table>
 < /body>
 < /html>
-
-'''
-
-
+```
 ## OUTPUT
 ![alt text](screenshot.png)
 ## RESULT
