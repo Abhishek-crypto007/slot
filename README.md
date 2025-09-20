@@ -25,11 +25,11 @@ Execute the program using runserver command.
 
 ## PROGRAM
  '''
-< !DOCTYPE html >
+< !DOCTYPE html>
 < html lang="en">
-              < head>
-     < meta charset="UTF-8">
-    < title>College Timetable</ title>
+< head>
+    < meta charset="UTF-8">
+    < title>College Timetable</title>
      < style>
         body {
             font-family: Arial, sans-serif;
@@ -63,19 +63,19 @@ Execute the program using runserver command.
             background-color: #cce5ff;
             color: #000;
         }
-    </ style>
+    </style>
 </ head>
-< body> 
-< CENTER>
-< img src="\static\logo.png" height="100" width="540" alt="">
-< /CENTER>
-     < br>
+< body>  
+    < CENTER>
+        < img src="\static\logo.png" height="100" width="540" alt="">
+    < /CENTER>
+    < br>
     
     <h2>Slot Time Table - ABHISHEK S (25008757)</h2>
 
     <table>
         <tr>
-            <th>Day/Time</th> 
+            <th>Day/Time</th>
             <th>Monday</th>
             <th>Tuesday</th>
             <th>Wednesday</th>
@@ -152,15 +152,14 @@ Execute the program using runserver command.
             <td>19MA201</td>
             <td>Calculus and Matrix Algebra (MAT)</td>
         </tr>
-     <tr>
-          <td>6</td>
-       <td>19EY701</td>
-      <td>Soft Skills (SS)</td>
-                </tr>
-               </table>
-                  </body>
-                       </html>
-
+        <tr>
+            <td>6</td>
+            <td>19EY701</td>
+            <td>Soft Skills (SS)</td>
+        </tr>
+    </table>
+< /body>
+< /html>
 
  '''
 
