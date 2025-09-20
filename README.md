@@ -25,7 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
  '''
-" < !DOCTYPE html >
+< !DOCTYPE html >
 < html lang="en">
               < head>
      < meta charset="UTF-8">
@@ -65,17 +65,17 @@ Execute the program using runserver command.
         }
     </ style>
 </ head>
-                                                                        < body>  
-                                             < CENTER>
-                            < img src="\static\logo.png" height="100" width="540" alt="">
-                                < /CENTER>
+< body> 
+< CENTER>
+< img src="\static\logo.png" height="100" width="540" alt="">
+< /CENTER>
      < br>
     
     <h2>Slot Time Table - ABHISHEK S (25008757)</h2>
 
     <table>
         <tr>
-            <th>Day/Time</th>
+            <th>Day/Time</th> 
             <th>Monday</th>
             <th>Tuesday</th>
             <th>Wednesday</th>
@@ -167,6 +167,5 @@ Execute the program using runserver command.
 
 ## OUTPUT
 ![alt text](<Screenshot (7).png>)
-
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
